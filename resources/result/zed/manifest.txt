@@ -1,0 +1,5 @@
+Name=ZED
+Composer=USAO
+BPM=190
+From=[Jubeat saucer] bistro saucer
+Level=0,0,9

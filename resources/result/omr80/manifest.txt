@@ -1,0 +1,5 @@
+Name=One More Reason 80%
+Composer=GUHROOVY
+BPM=180
+From=[Jubeat festo] 보이 & 걸 대항전
+Level=0,0,10

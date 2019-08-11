@@ -1,0 +1,5 @@
+Name=One More Reason
+Composer=GUHROOVY
+BPM=220
+From=[Jubeat festo] 보이 & 걸 대항전
+Level=0,0,10

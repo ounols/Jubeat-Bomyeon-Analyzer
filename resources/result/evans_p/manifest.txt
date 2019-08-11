@@ -1,0 +1,5 @@
+Name=evans -practice-
+Composer=DustUp
+BPM=180
+From=[Jubeat]
+Level=0,0,10

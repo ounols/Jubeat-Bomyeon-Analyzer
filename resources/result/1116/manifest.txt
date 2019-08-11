@@ -1,0 +1,5 @@
+Name=1116
+Composer=DustUp
+BPM=190
+From=[Jubeat festo]TUNE RUN 최종 해금곡
+Level=0,0,10
